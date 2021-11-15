@@ -1,0 +1,17 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
+
+Variables: una variable es la forma que tenemos para nombrar un lugar de memoria que el sistema va a utilizar para guardar datos, y que luego nosotros vamos a poder indicale como usarlos.
+
+String: es un tipo de variable que va a almacenar texto. Normalmente se define el valor que debe guardar la variable con el texto encerrado entre comillas.
+
+Funciones: es una porción de codigo que va a realizar una tarea especifica y se pueden llamar cuando las necesitamos, al programarlas le ponemos nombres descriptivos para que sepamos que es lo que hacen y sea mas facil recordarlas. 
+
+Declaraciones If: los programas que desarrollamos no siempre tienen que ejecutar todas las instrucciones, sino que aveces necesitamos que se comporte de una u otra manera segun alguna condicion o situación. Para ello utilizaremos declaraciones del tipo If. Donde una porcion del codigo se va a ejecutar solo si la condicion incial declarada junto al "if" se cumple.
+
+Valores booleanos: existe un tipo de varialble que solo puede tener uno de dos valores posibles (verdadero o falso). Funciona como una llave de luz donde se enciende o se apaga.
