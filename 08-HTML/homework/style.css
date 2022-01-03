@@ -1,0 +1,28 @@
+	h1 { color: white;
+	}
+	ul {
+	display: block;
+    	justify-content: center;
+	}
+
+	li {
+  	margin: 0 .75rem;
+	}
+
+	img { width: 150px;
+	}
+	
+	#firstDiv {
+	
+
+	     text-align: center;
+	     color: white;
+             background: dimgrey;
+             border: 2px solid black;
+  	}
+   	#secondDiv {
+	     	  
+	     background: darkkhaki;
+             padding: 50px;
+             border: 2px solid green;
+  	}
